@@ -2,3 +2,4 @@ django==3.2.6
 djangorestframework==3.12.4
 
 flake8==3.9.2
+gunicorn==20.1.0
